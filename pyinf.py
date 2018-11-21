@@ -1,4 +1,5 @@
-"""Shows basic python information.
+#! python3
+"""Show basic python information.
 
 Based on examples from:
 https://www.python.org/dev/peps/pep-0514/
